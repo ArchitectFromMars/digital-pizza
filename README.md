@@ -1,7 +1,8 @@
 # Digital Pizza
 
-<img src="img/badge-dependents.jpg" width="150" alt="badge">
-<img src="img/badge-fun.jpg" width="150" alt="badge">
+![dependents badge](img/badge-dependents.jpg)
+
+![fun badge](img/badge-fun.jpg)
 
 ## DESCRIPTION
 
@@ -13,7 +14,7 @@ Uses colored checkmark and 'X' to show PASS/FAIL. You modify the "manager_change
 
 The table is drawn with built-in console class `console.table()`.
 
-<img src="img/what-it-does.jpg">
+![what-it-does](img/what-it-does.jpg)
 
 ## Why this project was built?
 
