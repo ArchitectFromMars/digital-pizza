@@ -34,7 +34,7 @@ Works 100% out of the box — no dependencies to install. Run it with npm inside
 
 <img src="img/right-click-integrated-terminal.gif">
 
-**STEP #1 -** Place file into your local project folder.
+**STEP #1 -** Place file into your local project folder.<br>
 **STEP #2 -** Open the console inside VS Code: locate your file, right-click on file > "Open in Integrated Terminal".
 
 Run it with `npm digital-pizza.js`.
