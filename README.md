@@ -14,7 +14,7 @@ Uses colored checkmark and 'X' to show PASS/FAIL. You modify the "manager_change
 
 The table is drawn with built-in console class `console.table()`.
 
-<img src="img/what-it-does.gif">
+<img src="img/what-it-does.jpg">
 
 ## Why this project was built?
 
