@@ -14,7 +14,7 @@ Uses colored checkmark and 'X' to show PASS/FAIL. You modify the "manager_change
 
 The table is drawn with built-in console class `console.table()`.
 
-![what-it-does](img/what-it-does.jpg)
+<img src="img/what-it-does.gif">
 
 ## Why this project was built?
 
@@ -54,10 +54,6 @@ manager_changed_it("mushrooms");
 ```
 
 The function `order_checker()` compares the 2 toppings. The screen shows GREEN when the toppings match, meaning the pizza was properly made, or RED when the wrong topping was used.
-
-Like this...
-
-<img src="img/manager-changed-it.gif">
 
 ## Conclusion
 
