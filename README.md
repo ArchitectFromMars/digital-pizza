@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-(made with care in August 2021)
+(made with care on August 6, 2021)
 
 Simple js displays table inside VS Code terminal, showing customer pizza topping and compares to what is actually delivered by the manager.
 
