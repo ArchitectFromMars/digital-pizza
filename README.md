@@ -12,6 +12,8 @@ Simple js displays table inside VS Code terminal, showing customer pizza topping
 
 Uses colored checkmark and 'X' to show PASS/FAIL. You modify the "manager_changed_it" method to give different result (2 possible).
 
+<img src="img/change-the-toppings.jpg">
+
 The table is drawn with built-in console class `console.table()`.
 
 <img src="img/what-it-does.jpg">
