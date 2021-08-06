@@ -49,7 +49,6 @@ let topping_original = topping_final;
 
 function manager_changed_it($arg_newTopping = topping_final){
     topping_final = $arg_newTopping;
-    // console.log('\x1b[1;37m%s\x1b[0m', guff);
     return topping_final;
 }
 
