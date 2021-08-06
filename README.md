@@ -61,3 +61,5 @@ The function `order_checker()` compares the 2 toppings. The screen shows GREEN w
 
 Thanks for visiting and enjoy the script. Oh, yeah... and one more thing... happy coding!
 
+— freddy
+
